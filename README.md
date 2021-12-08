@@ -67,4 +67,4 @@ Psychology, 28(3), 396–405. https://doi.org/10.1037/0012-1649.28.3.396
 If you find any issu please report it on the 
 [issues section](https://github.com/SPEECHCOG/isolated_vowels_corpus/issues) 
 in this repository. Further comments can be sent to 
-maria <dot> cruzblandon <at> tuni <dot> fi
+`maria <dot> cruzblandon <at> tuni <dot> fi`
