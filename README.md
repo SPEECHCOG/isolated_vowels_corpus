@@ -3,7 +3,7 @@ This repository contains the isolated vowel corpus (IVC) of vowels
 synthesised with MBROLA voices.
 
 This corpus was generate using the pitch contours and durations from 
-Maean et al. (1992). MBROLA voices used to synthesise the vowels 
+Marean et al. (1992). MBROLA voices used to synthesise the vowels 
 can be found in their [repository](https://github.com/numediart/MBROLA-voices).
 
 ## Vowels repertoire
