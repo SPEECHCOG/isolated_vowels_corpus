@@ -3,7 +3,7 @@ This repository contains the isolated vowel corpus (IVC) of vowels
 synthesised with MBROLA voices.
 
 This corpus was generate using the pitch contours and durations from 
-Marean et al. (1992). MBROLA voices used to synthesise the vowels 
+Maean et al. (1992). MBROLA voices used to synthesise the vowels 
 can be found in their [repository](https://github.com/numediart/MBROLA-voices).
 
 ## Vowels repertoire
@@ -52,16 +52,16 @@ The parameter `output_info` state the path of the binary file where
 to save the meta-data of the corpus. The file `corpus_info.pickle` 
 contains the current version of the corpus meta-data.
 
-# Citing this work
-
-María Andrea Cruz Blandón, Alejandrina Cristia, Okko Räsänen. 
-Evaluation of computational models of infant language development 
-against robust empirical data from meta-analyses: what, why, and how?
-
 # References
 \Marean, G. C., Werner, L. A., & Kuhl, P. K. (1992). 
 Vowel categorization by very young infants. Developmental 
 Psychology, 28(3), 396–405. https://doi.org/10.1037/0012-1649.28.3.396
+
+# Citing this work
+
+María Andrea Cruz Blandón, Alejandrina Cristia, Okko Räsänen. (2023). 
+Introducing meta-analysis in the evaluation of computational models of infant language development. Accepted for publication in Cognitive Science Journal
+
 
 # Contact
 If you find any issue please report it on the 
