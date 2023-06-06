@@ -52,18 +52,18 @@ The parameter `output_info` state the path of the binary file where
 to save the meta-data of the corpus. The file `corpus_info.pickle` 
 contains the current version of the corpus meta-data.
 
-# References
+## References
 \Marean, G. C., Werner, L. A., & Kuhl, P. K. (1992). 
 Vowel categorization by very young infants. Developmental 
 Psychology, 28(3), 396–405. https://doi.org/10.1037/0012-1649.28.3.396
 
-# Citing this work
+## Citing this work
 
 María Andrea Cruz Blandón, Alejandrina Cristia, Okko Räsänen. (2023). 
 Introducing meta-analysis in the evaluation of computational models of infant language development. Accepted for publication in Cognitive Science Journal
 
 
-# Contact
+## Contact
 If you find any issue please report it on the 
 [issues section](https://github.com/SPEECHCOG/isolated_vowels_corpus/issues) 
 in this repository. Further comments can be sent to 
